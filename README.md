@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sumanth-siddareddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkata sumanth siddareddy" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Sumanth-Siddareddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venkata sumanth siddareddy" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/venkata sumanth siddareddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="venkata sumanth siddareddy" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/venkata sumanth siddareddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="venkata sumanth siddareddy" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
