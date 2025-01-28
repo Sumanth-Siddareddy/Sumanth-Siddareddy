@@ -1,8 +1,6 @@
 <h1 align="center">HELLO!!! 👋, I'm Venkata Sumanth Siddareddy</h1>
 <h3 align="center">Aspiring software developer || PERN Stack || Java || Agile Methodology || AI-ML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanth-siddareddy&label=Profile%20views&color=0e75b6&style=flat" alt="sumanth-siddareddy" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanth-siddareddy" alt="sumanth-siddareddy" /></a> </p>
 
 - 🔭 I’m currently working on [JWT and Email notification integratedTO-DO List](https://github.com/Sumanth-Siddareddy/RealTime_TODO)
