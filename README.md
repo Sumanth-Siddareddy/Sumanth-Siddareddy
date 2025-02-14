@@ -35,4 +35,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanth-siddareddy&show_icons=true&locale=en" alt="sumanth-siddareddy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth-siddareddy&" alt="sumanth-siddareddy" /></p>
