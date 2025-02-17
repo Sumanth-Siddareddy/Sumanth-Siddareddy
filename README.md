@@ -85,7 +85,7 @@ I am Venkata Sumanth Siddareddy, a senior B.Tech student in Computer Science Eng
 ## Version Control :
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<h2 align="center">👀 Git Status 👀</h2>
+## 👀 Git Status 👀
 
 <p align="center">
   <picture>
@@ -95,14 +95,19 @@ I am Venkata Sumanth Siddareddy, a senior B.Tech student in Computer Science Eng
   </picture>
 </p>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumanth-Siddareddy&theme=transparent)|
- |:-: |
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumanth-Siddareddy&theme=transparent" alt="Profile Details" />
+</p>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumanth-Siddareddy&theme=transparent)| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumanth-Siddareddy&theme=transparent) |
-| :-: | :-: |
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumanth-Siddareddy&theme=transparent" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumanth-Siddareddy&theme=transparent" alt="Repos per Language" />
+</p>
 
- | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumanth-Siddareddyr&theme=transparent&utcOffset=2) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumanth-Siddareddy&theme=transparent) |
-| :-: | :-: |
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumanth-Siddareddy&theme=transparent" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumanth-Siddareddy&theme=transparent" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <picture>
