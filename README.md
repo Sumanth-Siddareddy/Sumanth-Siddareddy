@@ -3,10 +3,10 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 <p>
-    <a href="https://github.com/Sumanth-Siddareddy"><img src="https://readme-typing-svg.demolab.com?            font=Alegreya+Sans&weight=500&size=35&duration=1&pause=1&color=FF0C48&repeat=false&random=false&width=435&lines=Venkata+Sumanth+Siddareddy" alt="Typing SVG" /></a>
+    <a href="https://github.com/Sumanth-Siddareddy"><img src="https://readme-typing-svg.demolab.com?            font=Alegreya+Sans&weight=500&size=35&duration=1&pause=1&color=0101FF&repeat=false&random=false&width=435&lines=Venkata+Sumanth+Siddareddy" alt="Typing SVG" /></a>
 </p>
 <p>
-    <a href=""><img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans&weight=400&size=30&pause=1000&color=FF0C48&random=false&width=435&lines=PERN+Stack+Web+Developer;Software+Engineer;AI-ML" alt="Skills" /></a>
+    <a href=""><img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans&weight=400&size=30&pause=1000&color=0000FF&random=false&width=435&lines=PERN+Stack+Web+Developer;Software+Engineer;AI-ML" alt="Skills" /></a>
 </p>
 
 <img align="right" height="160" width="200" src="pic.gif"  />
@@ -95,17 +95,20 @@ I am Venkata Sumanth Siddareddy, a senior B.Tech student in Computer Science Eng
   </picture>
 </p>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumanth-Siddareddy&theme=transparent)| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumanth-Siddareddy&theme=transparent)|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumanth-Siddareddy&theme=transparent)|
+ |:-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumanth-Siddareddy&theme=transparent)| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumanth-Siddareddy&theme=transparent) |
 | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumanth-Siddareddy&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumanth-Siddareddyr&theme=transparent&utcOffset=2) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumanth-Siddareddy&theme=transparent) |
-| :-: | :-: | :-: |
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumanth-Siddareddyr&theme=transparent&utcOffset=2) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumanth-Siddareddy&theme=transparent) |
+| :-: | :-: |
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Siddareddy&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark&border_color=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Siddareddy&size_weight=0.15&count_weight=0.5&layout=compact&theme=default">
-    <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Siddareddy&size_weight=0.15&count_weight=0.5&layout=compact&theme=default" alt="Top Languages">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Siddareddy&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-light">
+    <img width="400" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Siddareddy&size_weight=0.15&count_weight=0.5&layout=compact&theme=default" alt="Top Languages">
   </picture>
 </p>
 
