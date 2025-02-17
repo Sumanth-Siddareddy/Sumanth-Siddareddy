@@ -43,9 +43,9 @@ I am Venkata Sumanth Siddareddy, a senior B.Tech student in Computer Science Eng
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sai-Chakradhar-Mahendrakar/Sai-Chakradhar-Mahendrakar/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sai-Chakradhar-Mahendrakar/Sai-Chakradhar-Mahendrakar/output/github-snake.svg">
-  <img alt="snake gif" src="https://raw.githubusercontent.com/Sai-Chakradhar-Mahendrakar/Sai-Chakradhar-Mahendrakar/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumanth-Siddareddy/Sumanth-Siddareddy/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumanth-Siddareddy/Sumanth-Siddareddy/output/github-snake.svg">
+  <img alt="snake gif" src="https://raw.githubusercontent.com/Sumanth-Siddareddy/Sumanth-Siddareddy/output/github-snake.svg">
 </picture>
 
 <h2 align="center"> 💻 Tech Stack 💻 </h2>
