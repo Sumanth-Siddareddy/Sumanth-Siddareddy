@@ -92,7 +92,7 @@ I am Venkata Sumanth Siddareddy, a senior B.Tech student in Computer Science Eng
 <h2 align="center"> 🔗 Connect with me 🔗 </h2>
 <p align="center">
 <a href="https://linkedin.com/in/sumanth-siddareddy" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" alt="sumanth-siddareddy" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/sumanthsiddareddy" target="blank"> <img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/kaggle/filled/kaggle.svg" alt="sumanthsiddareddy" height="30" width="40" /> </a>
+<a href="https://www.kaggle.com/sumanthsiddareddy" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="sumanthsiddareddy" height="30" width="40" /></a>
 <!--  -->
 <a href="https://www.quora.com/profile/Venkata-Sumanth-Siddareddy" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/quora.svg" alt="Venkata-Sumanth-Siddareddy" height="30" width="40" /></a>
 <a href="https://x.com/sumanth_sv6" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter-x.svg" alt="@sumanth_sv6" height="30" width="40" /></a>
