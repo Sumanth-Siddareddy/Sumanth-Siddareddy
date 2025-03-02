@@ -92,17 +92,19 @@ I am Venkata Sumanth Siddareddy, a senior B.Tech student in Computer Science Eng
 <h2 align="center"> 🔗 Connect with me 🔗 </h2>
 <p align="center">
 <a href="https://linkedin.com/in/sumanth-siddareddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumanth-siddareddy" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sumanth_28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumanth_28" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Sumanth-Siddareddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sumanth-Siddareddy" height="30" width="40" /></a>
+     
+<a href="https://www.kaggle.com/sumanthsiddareddy" target="blank">
+    <img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/kaggle/filled/kaggle.svg" alt="your-kaggle-username" height="30" width="40" />
+</a>
+
 <a href="https://www.quora.com/profile/Venkata-Sumanth-Siddareddy" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/quora.svg" alt="Venkata-Sumanth-Siddareddy" height="30" width="40" /></a>
 
-</p>
-<!-- <a href="https://saichakradharrm.vercel.app" target="blank"><img align="center" src="https://static.thenounproject.com/png/365220-200.png" alt="Personal Site" height="30" width="40" /></a>-->
-<!-- <a href="https://auth.geeksforgeeks.org/user/saichakrkotn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saichakrkotn" height="30" width="40" /></a> -->
-<!-- <a href="https://codeforces.com/profile/saichakradharrm" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saichakradharrm" height="30" width="40" />
-</a> -->
-<!-- <a href="https://www.hackerrank.com/saichakradharrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saichakradharrm" height="30" width="40" /></a> -->
+<a href="https://x.com/sumanth_sv6" target="blank">
+    <img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/twitter/filled/twitter.svg" alt="your-twitter-handle" height="30" width="40" />
+</a>
+
+<a href="https://www.leetcode.com/Sumanth-Siddareddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sumanth-Siddareddy" height="30" width="40" /></a>
+
 
 
 
