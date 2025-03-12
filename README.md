@@ -97,7 +97,7 @@ I am Venkata Sumanth Siddareddy, a senior B.Tech student in Computer Science Eng
 <a href="https://www.quora.com/profile/Venkata-Sumanth-Siddareddy" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/quora.svg" alt="Venkata-Sumanth-Siddareddy" height="30" width="40" /></a>
 <a href="https://x.com/sumanth_sv6" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter-x.svg" alt="@sumanth_sv6" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Sumanth-Siddareddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sumanth-Siddareddy" height="30" width="40" /></a>
-
+<a href="https://www.geeksforgeeks.org/user/siddareddyvenkatasumanth28/" target="blank"><img align="center" src="\gfg-gg-logo.svg" alt="siddareddyvenkatasumanth28" height="30" width="40" /></a>
 
 
 
