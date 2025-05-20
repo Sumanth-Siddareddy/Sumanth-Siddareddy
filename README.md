@@ -2,9 +2,9 @@
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
-<p>
-    <a href="https://github.com/Sumanth-Siddareddy"><img src="https://readme-typing-svg.demolab.com?            font=Alegreya+Sans&weight=500&size=35&duration=1&pause=1&color=0101FF&repeat=false&random=false&width=435&lines=Venkata+Sumanth+Siddareddy" alt="Typing SVG" /></a>
-</p>
+<!-- <p>
+    <a href="https://github.com/Sumanth-Siddareddy">Venkata Sumanth Siddareddy</a>
+</p> -->
 <p>
     <a href=""><img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans&weight=400&size=30&pause=1000&color=0000FF&random=false&width=435&lines=PERN+Stack+Web+Developer;Software+Engineer;AI-ML+Engineer" alt="Skills" /></a>
 </p>
